@@ -15,11 +15,11 @@
 
 
 - 실행하기
-<img src='https://user-images.githubusercontent.com/66409676/188367888-8ddfacbc-97ed-4246-aa92-cc7184277c8e.png' style='width:400px;'>
+<img src='https://user-images.githubusercontent.com/66409676/188367888-8ddfacbc-97ed-4246-aa92-cc7184277c8e.png' style='width:600px;'>
 
 
 - API [참고](https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS001&apiId=2019002) 
-<img src='https://user-images.githubusercontent.com/66409676/188368369-03915f91-d846-4b39-a23e-b451dda341c1.png' style='width:400px;'>
+<img src='https://user-images.githubusercontent.com/66409676/188368369-03915f91-d846-4b39-a23e-b451dda341c1.png' style='width:600px;'>
 
-<img src='https://user-images.githubusercontent.com/66409676/188368388-70c333c1-ab5c-4ff0-9b98-d7b90c357c16.png' style='width:400px;'>
+<img src='https://user-images.githubusercontent.com/66409676/188368388-70c333c1-ab5c-4ff0-9b98-d7b90c357c16.png' style='width:600px;'>
  
